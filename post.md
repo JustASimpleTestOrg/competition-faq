@@ -1,5 +1,7 @@
 ## AirPair Competition FAQ
 
+Change it.
+
 ### How do I edit a competiton faq?
 
 As you type you'll see the preview pane update. The longer your posts gets, the less frequently it will refresh.
